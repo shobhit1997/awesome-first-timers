@@ -347,3 +347,8 @@
   Place: India
   Bio: Student Developer
   Github: [mayank26saxena](https://github.com/mayank26saxena) 
+
+- Name: Shobhit Agarwal
+  Place: India
+  Bio: Student Developer(Android)
+  Github: [shobhit1997](https://github.com/shobhit1997) 
